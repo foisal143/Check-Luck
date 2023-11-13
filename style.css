@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  color: white;
+}
+h1 {
+  text-align: center;
+  margin: 50px 0px;
+}
+
+.container {
+  width: 300px;
+  height: 250px;
+  border: 1px solid aqua;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.btn {
+  padding: 8px 30px;
+  background-color: aqua;
+  border-radius: 5px;
+  margin: 50px 0px;
+  cursor: pointer;
+  border: none;
+  text-transform: uppercase;
+}
+
+#emojiContainer {
+  font-size: 50px;
+  padding: 20px;
+}
